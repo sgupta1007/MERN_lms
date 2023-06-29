@@ -1,5 +1,5 @@
 # MERN_lms
-Mern stack for library management system
+Mern stack application for library management system.
 # Requirements 
 node.js(18 and above) and npx create-react-app
 # Installing Client
