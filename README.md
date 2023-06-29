@@ -7,4 +7,11 @@ run ./install.sh inside lms-client folder(lms folder  will be created inside lms
 copy src  from  lms-client to lms
 # Installing Server
 run ./script.sh inside lms-server folder 
+# Running Server
+node server.mjs
+# Running Client
+npm start
+
+#  Important Instruction
+Create .env file inside lms-server and place  mongo-uri 
 
